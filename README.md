@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Siddharth 👋
 
 I'm an aspiring Data Analyst with a passion for turning raw data into
 clear business insights.
