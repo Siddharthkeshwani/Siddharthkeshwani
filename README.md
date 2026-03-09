@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Siddharthkeshwani/Siddharthkeshwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst with a passion for turning raw data into
+clear business insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🏥 [Hospital Readmission Risk Analysis](https://github.com/Siddharthkeshwani/hospital-readmission-analysis)
+  — Analysed 101,766 diabetic patient records to identify 30-day readmission risk
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/siddharthkeshwani/)
