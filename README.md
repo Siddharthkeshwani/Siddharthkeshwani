@@ -20,5 +20,10 @@ clear business insights.
     Analysed 7+ years of daily OHLCV data for AAPL, TSLA, MSFT, and GOOGL (2010–2017).
     Built a full pipeline: raw data → cleaning → feature engineering → EDA → Power BI dashboard.
 
+- 🛒 [E-Commerce Customer Segmentation & RFM Analysis](https://github.com/Siddharthkeshwani/ecommerce-rfm-customer-segmentation)
+  - End-to-end data analyst portfolio project — Python · MySQL · Power BI  
+    Analysed 541,909 real UK retail transactions to segment 4,338 customers using RFM scoring and K-Means clustering.  
+    Built a full pipeline: raw data → cleaning → EDA → RFM feature engineering → SQL insights → interactive Power BI dashboard.
+
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/siddharthkeshwani/)
