@@ -11,8 +11,14 @@ clear business insights.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 ## 📌 Featured Projects
+
 - 🏥 [Hospital Readmission Risk Analysis](https://github.com/Siddharthkeshwani/hospital-readmission-analysis)
-  — Analysed 101,766 diabetic patient records to identify 30-day readmission risk
+  - Analysed 101,766 diabetic patient records to identify 30-day readmission risk
+
+- 📈 Tech Stocks Trend & Volatility Analysis   
+  - End-to-end data analyst portfolio project — Python EDA + Interactive Power BI Dashboard
+    Analysed 7+ years of daily OHLCV data for AAPL, TSLA, MSFT, and GOOGL (2010–2017).
+    Built a full pipeline: raw data → cleaning → feature engineering → EDA → Power BI dashboard.
 
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/siddharthkeshwani/)
