@@ -25,5 +25,10 @@ clear business insights.
     Analysed 541,909 real UK retail transactions to segment 4,338 customers using RFM scoring and K-Means clustering.  
     Built a full pipeline: raw data → cleaning → EDA → RFM feature engineering → SQL insights → interactive Power BI dashboard.
 
+-🏏 [IPL Cricket Analytics — End-to-End Data Pipeline (Python → SQL → Power BI)](https://github.com/Siddharthkeshwani/ipl-cricket-analytics)
+ - A sports analytics platform built on 17 seasons of IPL ball-by-ball data to help franchise owners make data-driven auction decisions.
+   Data: 2,60,920 deliveries · 1,095 matches · 17 seasons (2008–2024)
+
+ 
 ## 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/siddharthkeshwani/)
